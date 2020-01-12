@@ -8,7 +8,7 @@ Sign up in [Docker Hub](https://hub.docker.com/signup) to create a Docker ID. Yo
 
 [Create a private repository](https://hub.docker.com/repository/create) in Docker Hub with name `webapp`:
 
-![create-repo](./images/create-repo.png)
+![create-repo](./images/create-repo.PNG)
 
 ## Log into a Docker registry
 
@@ -58,7 +58,7 @@ latest: digest: sha256:70d75c2e9b2e004b296659742681da771e125153e5dada3ae1d5a7213
 
 Anyone that is a collaborator in your repository can pull your image. Feel free to add some of your colleagues as collaborators through the Docker Hub web so that they can pull and run your image too!
 
-![collaborators](./images/collaborators.png)
+![collaborators](./images/collaborators.PNG)
 
 Finally, you can pull the image and run it as a container with the following command:
 
