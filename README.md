@@ -29,10 +29,9 @@ Login Succeeded
 
 ## Build your image
 
-Go to the [webapp](./webapp) folder and build your project locally using the given Dockerfile. 
+Build your java web app locally using the given Dockerfile. 
 
 ```
-$ cd webapp
 $ docker build -t webapp .
 ```
 
